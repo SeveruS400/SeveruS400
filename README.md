@@ -1,4 +1,4 @@
-<h3> Hi, I'm Mahir Furkan</h3> <iframe src="https://giphy.com/embed/5Zesu5VPNGJlm" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5Zesu5VPNGJlm">via GIPHY</a></p>
+<h3> Hi, I'm Mahir Furkan<img src="https://giphy.com/embed/H1jSPXCJmo8AZi3gdP" width="50"></h3>
 
 
 ![](https://komarev.com/ghpvc/?username=SeveruS400)</br>
