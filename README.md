@@ -1,5 +1,5 @@
 <h3> Hi, I'm Mahir Furkan<img src="https://giphy.com/embed/H1jSPXCJmo8AZi3gdP" width="50"></h3>
-
+<iframe src="https://giphy.com/embed/8jsTqs8A0WT0Jg48ny" width="480" height="345" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sesamestreet-transparent-sesame-street-elmo-8jsTqs8A0WT0Jg48ny">via GIPHY</a></p>
 
 ![](https://komarev.com/ghpvc/?username=SeveruS400)</br>
 <em> Computer Engineering at <a href="https://pau.edu.tr">University of Pamukkale </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
