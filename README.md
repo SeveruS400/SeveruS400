@@ -1,4 +1,4 @@
-<h3> Hi, I'm Mahir Furkan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+<h3> Hi, I'm Mahir Furkan <img src="https://media.giphy.com/media" width="50"></h3>
 
 ![](https://komarev.com/ghpvc/?username=SeveruS400)</br>
 <em> Computer Engineering at <a href="https://pau.edu.tr">University of Pamukkale </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
