@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Image of https://github.com/SeveruS400/ViewerCount](https://github.com/SeveruS400/ViewerCount/blob/master/svg/profile/badge.svg)](https://github.com/SeveruS400/ViewerCount)
+[![Linkedin Badge](https://img.shields.io/badge/-mfk19-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfk19/)](https://www.linkedin.com/in/mfk19/)
 <!--
 **SeveruS400/SeveruS400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
