@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/SeveruS400/ViewerCount)
 <!--
 **SeveruS400/SeveruS400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
