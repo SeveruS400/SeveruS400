@@ -1,6 +1,9 @@
 <h3> Hi, I'm Mahir Furkan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+
 ![](https://komarev.com/ghpvc/?username=SeveruS400)
+
 [![Image of https://github.com/SeveruS400/ViewerCount](https://github.com/SeveruS400/ViewerCount/blob/master/svg/profile/badge.svg)](https://github.com/SeveruS400/ViewerCount)
+
 [![Linkedin Badge](https://img.shields.io/badge/-MahirFurkan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfk19/)](https://www.linkedin.com/in/mfk19/)
 <!--
 **SeveruS400/SeveruS400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
