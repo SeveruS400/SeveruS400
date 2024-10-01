@@ -3,6 +3,7 @@
 <em> Computer Engineering at <a href="https://pau.edu.tr">University of Pamukkale </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBqcDc0ZjR3cHFmMDR1YmNubWNrNXhreG1nMnRmbXBkdDBucGtlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"></br>
 ![](https://komarev.com/ghpvc/?username=SeveruS400)
 [![Linkedin Badge](https://img.shields.io/badge/-MahirFurkan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfk19/)](https://www.linkedin.com/in/mfk19/)</br>
+<a href="mailto:mahirfurkan1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mahirfurkan1999@gmail.com-blue?style=flat&logo=gmail"></a>
 
 <h4 align="left">Languages, Libraries and Tools:</h4>
 <p align="left">
